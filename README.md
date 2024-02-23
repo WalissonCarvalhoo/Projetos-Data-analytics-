@@ -29,9 +29,5 @@
 
 <p>Se precisar entrar em contato comigo, você pode me encontrar no GitHub, e-mail ou até pelo meu linkedin, todas as informações de contato estão no meu perfil.</p>
 
-<footer>
-    <p>Este README foi criado utilizando marcações HTML.</p>
-</footer>
-
 </body>
 </html>
