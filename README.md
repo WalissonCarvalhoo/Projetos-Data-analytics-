@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>Projeto de Análise de Dados</h1>
+<h1>Projetos de Análise de Dados</h1>
 
 <p><strong>Objetivo desse repositório:</strong> Treinar meus conhecimentos em análises de dados que estou aprendendo em Python.</p>
 
