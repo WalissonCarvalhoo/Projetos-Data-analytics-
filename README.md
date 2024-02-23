@@ -17,7 +17,7 @@
 
 <h2>Como Contribuir</h2>
 
-<p>Se você gostaria de contribuir para este projeto, sinta-se à vontade para:</p>
+<p>Se desejar me apoiar nessa jornada, sinta-se à vontade para:</p>
 
 <ul>
     <li>Enviar sugestões</li>
